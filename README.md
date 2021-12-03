@@ -1,6 +1,9 @@
 # FSB10
 Programming tasks - solutions
 
-- [ ] Tydzień 1
+- [X] Tydzień 1 (JavaScript)
   - [X] Zadania
-  - [ ] Warsztat
+  - [X] Warsztat
+- [X] Tydzień 2 (React)
+  - [X] Zadania 
+  - [ ] Podsumowanie
