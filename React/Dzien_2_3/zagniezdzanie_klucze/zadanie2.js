@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import people from "./data/people";
+import person from "./data/person";
 
 ReactDOM.render(
   <>
