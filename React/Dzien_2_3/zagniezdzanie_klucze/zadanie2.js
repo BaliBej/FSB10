@@ -5,12 +5,8 @@ import people from "./data/people";
 
 ReactDOM.render(
   <>
-    {people.map(person => (
-        <div key={person.id}>
-            <h1>{person.name} {person.surname}</h1>
-            <span>{ person.age }</span>
-        </div>
-    ))}
+    <h1>{ people.title }{ people.firstName }{ people.lastName }</h1>
+    <span>{ people.age }</span>
   </>,
   document.getElementById("app")
 );
