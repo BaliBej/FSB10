@@ -14,7 +14,7 @@ ReactDOM.render(<App/>, document.getElementById("app"));
 // AccountData.js
 
 import React, { useState } from 'react';
-import FakeAPI from "./data/fakeAPI.js";
+import FakeAPI from "./data/fakeAPI.js.js";
 
 function AccountData() {
 
