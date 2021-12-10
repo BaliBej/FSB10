@@ -3,7 +3,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import CustomTitle from './Box';
+import CustomTitle from './CustomTitle';
 
 function App() {
     return <CustomTitle />
