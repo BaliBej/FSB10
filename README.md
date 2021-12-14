@@ -8,5 +8,5 @@ Programming tasks - solutions
   - [X] Zadania 
   - [X] Podsumowanie
 - [ ] Tydzień 3 (React)
-  - [ ] Zadania
+  - [X] Zadania
   - [ ] Podsumowanie
